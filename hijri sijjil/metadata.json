@@ -1,0 +1,6 @@
+{
+  "name": "Hijri Identity",
+  "description": "Convert your Gregorian birth date into its corresponding Hijri date and generate a premium digital Islamic identity card with verified name research from authentic sources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
